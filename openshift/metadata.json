@@ -1,0 +1,1 @@
+{"clusterName":"ocp4","clusterID":"19feaee3-1cea-4ceb-ab1e-df7fcb4ccf54","infraID":"ocp4-98rkr","vsphere":{"vCenter":"10.255.253.5","username":"administrator@sso.devops.lan","password":"7h$fx$IQMxOHZlHLgW+W","terraform_platform":"vsphere"},"featureSet":"","customFeatureSet":null}
