@@ -1,4 +1,3 @@
-# ironicbadger/ocp4
 
 This repo contains code to deploy Openshift 4 for my homelab. It focuses on UPI with vSphere 6.7u3, a full write up is available on [openshift.com](https://www.openshift.com/blog/how-to-install-openshift-4.6-on-vmware-with-upi).
 
